@@ -1,0 +1,10 @@
+{
+  "client_date": "2026-10-28",
+  "files": {
+    "pyproject.toml": "3a053cdcd2383af55a5c128cc19a6f3bc6b0bf5179da59c2c2c431397c7bd706",
+    "uv.lock": "860162892c743066ce3c80f0f4f5b463d3b524f7b39970979c71a83ee3772be3",
+    "frontend/package.json": "c2e3247413945b6d2f602883f65bc30c59672bf11a176daf24be9f18a4ea6d45",
+    "frontend/package-lock.json": "5715a9f0fd438ef7e36609949bc9b9856cf4a6948489821de0045daaf6cf8431"
+  },
+  "git_metadata_present": false
+}

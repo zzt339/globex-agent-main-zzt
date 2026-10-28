@@ -1,0 +1,4 @@
+{
+  "status": "failed",
+  "error": "Cannot declare ('project', 'optional-dependencies') twice (at line 38, column 31)"
+}

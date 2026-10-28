@@ -1,0 +1,9 @@
+{
+  "status": "passed",
+  "duplicate_table_removed": true,
+  "optional_groups": [
+    "tokenization",
+    "retrieval",
+    "optimization"
+  ]
+}
