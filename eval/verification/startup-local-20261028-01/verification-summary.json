@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-28",
+  "toml_parse": "passed",
+  "dependency_versions_and_integrity_preserved": true,
+  "python_install": "passed",
+  "python_dependency_check": "passed",
+  "npm_install": "passed",
+  "backend_asgi_import": "passed",
+  "frontend_build": "passed",
+  "model_key_configured": false,
+  "services_started": false,
+  "health_verified": false,
+  "external_model_or_embedding_called": false
+}
